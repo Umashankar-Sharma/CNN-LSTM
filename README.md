@@ -1,2 +1,2 @@
-# CNN-LSTM++
+# CNN-LSTM
 
